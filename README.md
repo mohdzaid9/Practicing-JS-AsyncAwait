@@ -1,1 +1,1 @@
-Just a litle bit of practice of javscript 
+Just a litle bit of practice of javscript :)
